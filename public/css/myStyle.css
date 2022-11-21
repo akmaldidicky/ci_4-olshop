@@ -1,0 +1,77 @@
+.myCard1 {
+    box-shadow: 10px 8px 10px 0px rgba(255, 120, 167, .3);
+    text-align: center;
+
+}
+
+.myCard2 {
+    box-shadow: 10px 8px 10px 0px rgba(20, 70, 250, .3);
+    text-align: center;
+}
+
+/* .table>tbody>tr>* {
+    vertical-align: middle;
+} */
+
+/* .card-body {
+    text-align: center;
+} */
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+    border-radius: 20px;
+}
+
+html,
+body {
+    height: 100%;
+    background-color: rgba(206, 234, 240, .5);
+}
+
+.navbar {
+    background-color: white
+}
+
+.fa-cart-plus {
+    color: rgba(20, 70, 250, 0.7);
+}
+
+.fa-table-list {
+    color: rgba(255, 120, 167, .7);
+}
+
+.container-aw {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    background-color: white
+}
+
+.table>thead>tr>th {
+    background-color: cadetblue
+}
+
+.tabel_t {
+    vertical-align: middle;
+    text-align: center;
+    background-color: cadetblue
+}
+
+#tabel_barang {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table_subtotal {
+    vertical-align: middle;
+    text-align: center;
+    background-color: rgba(206, 234, 240, .5);
+    padding: 0%;
+}
